@@ -1,0 +1,1187 @@
+{
+    "metadata": {
+        "generated": 1595157443476,
+        "url": "",
+        "title": "Kenya, Covid 19 cases in the last 24hrs",
+        "status": 200,
+        "api": "1.0.0",
+        "count": 47
+    },
+    "features": [
+        {
+            "country": "Kenya",
+            "properties": {
+                "county": "Mombasa",
+                "code": "01",
+                "population": "1,208,333",
+                "cases": 17,
+                "total cases": "NA",
+                "deaths": "NA",
+                "bed capacity": "NA",
+                "time": 1595365200000,
+                "updated": 1594479397655,
+                "source": "MOH",
+                "type": "corona virus",
+                "title": "Mombasa County"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0435,
+                    39.6682,
+                    0.1
+                ]
+              }
+            },   
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kwale",
+                    "code": "02",
+                    "population": "866,820",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kwale County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -4.1816,
+                        39.4606,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kilifi",
+                    "code": "03",
+                    "population": "1,453,787",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kilifi County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.5107,
+                        39.9093,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Tana River",
+                    "code": "04",
+                    "population": "315,943",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Tana River County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.6518,
+                        39.6518,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Lamu",
+                    "code": "05",
+                    "population": "143,920",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Lamu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -2.2696,
+                        40.9006,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Taita Taveta",
+                    "code": "06",
+                    "population": "340,671",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Taita Taveta County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -3.3161,
+                        38.4850,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Garissa",
+                    "code": "07",
+                    "population": "841,353",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Garissa County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.4532,
+                        39.6461,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Wajir",
+                    "code": "08",
+                    "population": "781,263",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Wajir County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.7488,
+                        40.0586,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Mandera",
+                    "code": "09",
+                    "population": "867,457",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Mandera County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        3.9356,
+                        41.8551,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Marsabit",
+                    "code": "10",
+                    "population": "459,785",
+                    "cases": 2,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Marsabit County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        2.3355,
+                        37.9943,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Isiolo",
+                    "code": "11",
+                    "population": "268,002",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Isiolo County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.3556,
+                        37.5833,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Meru",
+                    "code": "12",
+                    "population": "1,545,714",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Meru County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.0515,
+                        37.6456,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Tharaka Nithi",
+                    "code": "13",
+                    "population": "393,177",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Tharaka Nithi County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.2965,
+                        37.7238,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Embu",
+                    "code": "14",
+                    "population": "608,599",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Embu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.5388,
+                        37.4596,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kitui",
+                    "code": "15",
+                    "population": "1,136,187",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kitui County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.3751,
+                        37.9952,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Machakos",
+                    "code": "16",
+                    "population": "1,421,932",
+                    "cases": 85,
+                    "total cases": "NA",
+                    "deaths": "12",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Machakos County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.5177,
+                        37.2634,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Makueni",
+                    "code": "17",
+                    "population": "987,653",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Makueni County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -2.2559,
+                        37.8937,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nyandarua",
+                    "code": "18",
+                    "population": "638,289",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nyandarua County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.1804,
+                        36.5230,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nyeri",
+                    "code": "19",
+                    "population": "759,164",
+                    "cases": 13,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nyeri County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.4371,
+                        36.9580,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kirinyaga",
+                    "code": "20",
+                    "population": "610,411",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kirinyaga County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.6591,
+                        37.3827,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Murang'a",
+                    "code": "21",
+                    "population": "1,056,640",
+                    "cases": 9,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Murang'a County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.7839,
+                        37.0400,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kiambu",
+                    "code": "22",
+                    "population": "2,417,735",
+                    "cases": 51,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kiambu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.1748,
+                        36.8304,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Turkana",
+                    "code": "23",
+                    "population": "926,976",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Turkana County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        3.3122,
+                        35.5658,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "West Pokot",
+                    "code": "24",
+                    "population": "621,241",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "West Pokot County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.6210,
+                        35.3905,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Samburu",
+                    "code": "25",
+                    "population": "310,327",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Samburu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.2155,
+                        36.9541,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Trans Nzoia",
+                    "code": "26",
+                    "population": "990,341",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Trans Nzoia County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.0567,
+                        34.9507,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Uasin Gishu",
+                    "code": "27",
+                    "population": "1,163,186",
+                    "cases": 6,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Uasin Gishu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.5528,
+                        35.3027,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Elgeyo Marakwet",
+                    "code": "28",
+                    "population": "454,480",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Elgeyo marakwet County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.0498,
+                        35.4782,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nandi",
+                    "code": "29",
+                    "population": "885,711",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nandi County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.1836,
+                        35.1269,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Baringo",
+                    "code": "30",
+                    "population": "666,763",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Baringo County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.8555,
+                        36.0893,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Laikipia",
+                    "code": "31",
+                    "population": "518,560",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Laikipia County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.3606,
+                        36.7820,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nakuru",
+                    "code": "32",
+                    "population": "2,162,202",
+                    "cases": 22,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nakuru County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.3031,
+                        36.0800,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Narok",
+                    "code": "33",
+                    "population": "1,157,873",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Narok County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        1.0875,
+                        35.8771,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kajiado",
+                    "code": "34",
+                    "population": "1,117,840",
+                    "cases": 57,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kajiado County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -2.0981,
+                        36.7820,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kericho",
+                    "code": "35",
+                    "population": "901,777",
+                    "cases": 3,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kericho County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.3689,
+                        35.2863,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Bomet",
+                    "code": "36",
+                    "population": "875,689",
+                    "cases": 5,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Bomet County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.8015,
+                        35.3027,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kakamega",
+                    "code": "37",
+                    "population": "1,867,579",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kakamega County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.2827,
+                        34.7519,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Vihiga",
+                    "code": "38",
+                    "population": "590,013",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Vihiga County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.0768,
+                        34.7078,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Bungoma",
+                    "code": "39",
+                    "population": "1,670,570",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Bungoma County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.5695,
+                        34.5584,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Busia",
+                    "code": "40",
+                    "population": "893,681",
+                    "cases": 10,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Busia County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.4608,
+                        34.1115,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Siaya",
+                    "code": "41",
+                    "population": "993,183",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Siaya County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.0617,
+                        34.2422,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kisumu",
+                    "code": "42",
+                    "population": "1,155,574",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kisumu County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.0917,
+                        34.7680,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Homa Bay",
+                    "code": "43",
+                    "population": "1,131,950",
+                    "cases": 1,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Homa Bay County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.5350,
+                        34.4531,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Migori",
+                    "code": "44",
+                    "population": "1,116,436",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Migori County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.0707,
+                        34.4753,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Kisii",
+                    "code": "45",
+                    "population": "1,266,860",
+                    "cases": 3,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Kisii County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.6773,
+                        34.7796,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nyamira",
+                    "code": "46",
+                    "population": "605,576",
+                    "cases": 0,
+                    "total cases": "NA",
+                    "deaths": "",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nyamira County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        0.5669,
+                        34.9341,
+                        0.1
+                    ]
+                }
+            },
+            {
+                "country": "Kenya",
+                "properties": {
+                    "county": "Nairobi",
+                    "code": "47",
+                    "population": "4,397,073",
+                    "cases": 342,
+                    "total cases": "NA",
+                    "deaths": "NA",
+                    "bed capacity": "NA",
+                    "time": 1595365200000,
+                    "updated": 1594479397655,
+                    "source": "MOH",
+                    "type": "corona virus",
+                    "title": "Nairobi County"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -1.2921,
+                        36.8219,
+                        0.1
+                    ]
+                }
+            }              
+        ]
+    }
